@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Gabriela Sánchez Maza</h1><h3 align="center">Una apasionada desarrolladora backend</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielarosmeri&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielarosmeri" /> </p>
+<h1 align="center">Hola 👋, soy Gabriela Sánchez Maza <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1><h3 align="center">Una apasionada desarrolladora backend</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielarosmeri&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielarosmeri" /> </p>
 
 
 
