@@ -7,6 +7,8 @@
 
 - 📫 🔭 Cómo llegar ** gaby020313@gmail.com**
 
+- 🔥 ¡Realmente me encanta la emoción de hacer posible lo que quiero!
+
 - ⚡ Dato curioso **me encanta viajar**
 
 <h3 align="left">Conéctate conmigo:</h3><p align="left">
