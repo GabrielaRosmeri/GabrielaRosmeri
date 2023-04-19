@@ -5,7 +5,7 @@
 
 - 💼 Actualmente estoy trabajando en **TRAXPARK**
 
-- 📫 🔭 Cómo llegar ** gaby020313@gmail.com**
+- 📫 gaby020313@gmail.com
 
 - 🔥 ¡Realmente me encanta la emoción de hacer posible lo que quiero!
 
