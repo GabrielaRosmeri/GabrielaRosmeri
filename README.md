@@ -11,6 +11,12 @@
 
 - ⚡ Fun fact **I love traveling**
 
+## 💬 Ask me about
+- Backend web development (Node.js, PHP)
+- Frontend web development (Vue.js)
+- Deep Learning and Machine Learning
+- Design Patterns
+
 <h3 align="left">Connect with me:</h3><p align="left">
 
 <a href="https://linkedin.com/in/gabriela sánchez maza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriela sánchez maza" height=" 30" width="40" /></a><a href="https://fb.com/gabriela Rosmeri s Maza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Gabriela Rosmeri s Maza" height="30" width="40" /></a></p><h3 align="left">Languages and Tools:</h3>
