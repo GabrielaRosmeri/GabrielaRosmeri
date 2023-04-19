@@ -3,7 +3,7 @@
 
 
 
-- Actualmente estoy trabajando en **TRAXPARK**
+- 💼 Actualmente estoy trabajando en **TRAXPARK**
 
 - 📫 🔭 Cómo llegar ** gaby020313@gmail.com**
 
