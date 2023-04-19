@@ -1,17 +1,17 @@
-<h1 align="center">Hola 👋, soy Gabriela Sánchez Maza <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1><h3 align="center">Una apasionada desarrolladora backend</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielarosmeri&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielarosmeri" /> </p>
+<h1 align="center">Hi 👋, I'm Gabriela Sánchez Maza <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1><h3 align="center">Passionate backend developer</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielarosmeri&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielarosmeri" /> </p>
 
 
 
 
-- 💼 Actualmente estoy trabajando en **TRAXPARK**
+- 💼 I'm currently working on **TRAXPARK**
 
 - 📫 gaby020313@gmail.com
 
-- 🔥 ¡Realmente me encanta la emoción de hacer posible lo que quiero!
+- 🔥 I really love the thrill of making what I want possible!
 
-- ⚡ Dato curioso **me encanta viajar**
+- ⚡ Fun fact **I love traveling**
 
-<h3 align="left">Conéctate conmigo:</h3><p align="left">
+<h3 align="left">Connect with me:</h3><p align="left">
 
 <a href="https://linkedin.com/in/gabriela sánchez maza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriela sánchez maza" height=" 30" width="40" /></a><a href="https://fb.com/gabriela Rosmeri s Maza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Gabriela Rosmeri s Maza" height="30" width="40" /></a></p><h3 align="left">Languages and Tools:</h3>
 
